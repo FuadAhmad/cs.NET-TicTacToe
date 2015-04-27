@@ -1,0 +1,8 @@
+G:\working Area\exercise\cs-net\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+G:\working Area\exercise\cs-net\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+G:\working Area\exercise\cs-net\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+G:\working Area\exercise\cs-net\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+G:\working Area\exercise\cs-net\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+G:\working Area\exercise\cs-net\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+G:\working Area\exercise\cs-net\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+G:\working Area\exercise\cs-net\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
